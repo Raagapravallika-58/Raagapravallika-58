@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raagapravallika-58
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in projects on data science
+- 🌱 I’m currently learning data scinece (MCA)
 - 💞️ I’m looking to collaborate on data scince or analytics projects
 - 📫 How to reach me mnkrp0089@gmail.com
 - 😄 Pronouns: She/Her
